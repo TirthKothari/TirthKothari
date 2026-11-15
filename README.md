@@ -161,11 +161,11 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=TirthKothari&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=TirthKothari&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub statistics for Tirth Kothari"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=TirthKothari&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=TirthKothari&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
   <br/><br/>
@@ -175,14 +175,9 @@
   />
 </div>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TirthKothari&theme=flat&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-### 📈 Activity Graph
+### 📈 Contribution Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TirthKothari&theme=vue&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TirthKothari&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Tirth Kothari Contribution Graph" />
 </div>
 
 </details>
