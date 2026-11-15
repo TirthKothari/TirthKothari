@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/GPA-9.05%20%2F%2010-2ea44f?style=flat-square&logo=academia&logoColor=white" alt="GPA" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Distributed%20Systems-6366F1?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-blueviolet?style=flat-square" alt="Status" />
 
 </div>
@@ -31,7 +31,7 @@ I am a **Software Engineer** specializing in backend development, distributed sy
 - 🚀 **Industry Experience**: Hands-on experience working in a fast-paced AI startup environment—architecting containerized emulator infrastructure with Kubernetes & KVM, low-latency live streaming gateways with OpenResty/Lua, and asynchronous task queues with Celery & Redis.
 - 🛠️ **Full-Lifecycle Backend**: Strong expertise in designing robust RESTful APIs with **Python (Django, FastAPI, Flask)**, implementing fine-grained RBAC, and integrating third-party systems (payment gateways, cloud storage, LLM APIs).
 - 📍 **Data & Storage**: Skilled with **PostgreSQL (PostGIS spatial queries)**, **MySQL**, **MongoDB**, and **Redis** for in-memory caching and atomic operations.
-- 🎓 **Education**: Pursuing B.Tech in Information Technology (**Honors in Artificial Intelligence and Machine Learning**) at **K.J. Somaiya Institute of Technology** (**GPA: 9.05 / 10**).
+- 🎓 **Education**: Pursuing B.Tech in Information Technology (**Honors in Artificial Intelligence and Machine Learning**) at **K.J. Somaiya Institute of Technology**.
 - 🏆 **Hackathons**: 2x 24-Hour Hackathon Winner/Finalist (Codeverse '23, DataHack 2.0).
 
 ---
@@ -165,11 +165,9 @@ I am a **Software Engineer** specializing in backend development, distributed sy
 - **Bachelor of Technology (B.Tech) in Information Technology**
   - **K.J. Somaiya Institute of Technology**, Mumbai | *2024 – 2027 (Expected)*
   - **Honors**: Artificial Intelligence and Machine Learning
-  - **GPA**: **9.05 / 10.00**
 
 - **Diploma in Computer Engineering**
   - **Shri Bhagubhai Mafatlal Polytechnic**, Mumbai | *2021 – 2024*
-  - **GPA**: **8.64 / 10.00**
 
 ---
 
