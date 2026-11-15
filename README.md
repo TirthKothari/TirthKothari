@@ -161,7 +161,7 @@
 
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=TirthKothari&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=TirthKothari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     alt="GitHub statistics for Tirth Kothari"
   />
   <img
