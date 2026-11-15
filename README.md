@@ -16,7 +16,7 @@
     <a href="https://github.com/TirthKothari">
       <img src="https://img.shields.io/badge/GitHub-TirthKothari-101820?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
     </a>
-    <a href="https://www.linkedin.com/in/tirthkothari/" target="_blank">
+    <a href="https://www.linkedin.com/in/tirthkothari17/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
     </a>
     <a href="mailto:tirth.n.kothari@gmail.com">
@@ -192,7 +192,7 @@
 
   <a href="https://github.com/TirthKothari">GitHub</a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/tirthkothari/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/tirthkothari17/" target="_blank">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:tirth.n.kothari@gmail.com">Email</a>
 
