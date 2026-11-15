@@ -1,7 +1,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,45:162032,100:38BDF8&text=TIRTH%20KOTHARI&fontColor=F8FAFC&fontSize=50&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Python%20%26%20Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%2FML&descAlignY=60&descSize=14"
+    src="./assets/banner.svg"
     width="100%"
     alt="Tirth Kothari — GitHub Profile Banner"
   />

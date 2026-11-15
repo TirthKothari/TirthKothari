@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="100%" height="220">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#0B132B" />
+    </linearGradient>
+
+    <!-- Radial Cyan Glow -->
+    <radialGradient id="centerGlow" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.18" />
+      <stop offset="60%" stop-color="#0284C7" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#090D16" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Text Gradients -->
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="60%" stop-color="#F0F9FF" />
+      <stop offset="100%" stop-color="#BAE6FD" />
+    </linearGradient>
+
+    <linearGradient id="subGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#67E8F9" />
+    </linearGradient>
+
+    <!-- Waves Gradients -->
+    <linearGradient id="waveBack" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0369A1" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0.25" />
+    </linearGradient>
+
+    <linearGradient id="waveMid" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0.45" />
+    </linearGradient>
+
+    <linearGradient id="waveFront" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" />
+      <stop offset="50%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#0EA5E9" />
+    </linearGradient>
+
+    <!-- Subtle Dot Grid Pattern -->
+    <pattern id="dotGrid" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#38BDF8" fill-opacity="0.08" />
+    </pattern>
+  </defs>
+
+  <!-- Background Layer -->
+  <rect width="900" height="220" rx="10" fill="url(#bgGradient)" />
+
+  <!-- Dot Grid Pattern Overlay -->
+  <rect width="900" height="170" fill="url(#dotGrid)" />
+
+  <!-- Radial Glow Behind Text -->
+  <rect width="900" height="220" fill="url(#centerGlow)" />
+
+  <!-- Wave 1 (Deepest) -->
+  <path d="M 0 155 Q 220 120 450 155 T 900 145 L 900 220 L 0 220 Z" fill="url(#waveBack)" />
+
+  <!-- Wave 2 (Middle Layer) -->
+  <path d="M 0 172 Q 225 142 450 175 T 900 165 L 900 220 L 0 220 Z" fill="url(#waveMid)" />
+
+  <!-- Wave 3 (Front Crest) -->
+  <path d="M 0 190 Q 220 165 450 192 T 900 185 L 900 220 L 0 220 Z" fill="url(#waveFront)" />
+
+  <!-- Typography -->
+  <g text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <!-- Main Title -->
+    <text x="450" y="85" font-size="46" font-weight="800" letter-spacing="4" fill="url(#titleGradient)">
+      TIRTH KOTHARI
+    </text>
+
+    <!-- Subtitle -->
+    <text x="450" y="118" font-size="14" font-weight="600" letter-spacing="2.5" fill="url(#subGradient)">
+      SOFTWARE DEVELOPER · PYTHON &amp; BACKEND · DISTRIBUTED SYSTEMS · AI/ML
+    </text>
+
+    <!-- Tagline -->
+    <text x="450" y="142" font-size="12.5" font-weight="400" letter-spacing="1" fill="#94A3B8">
+      Building scalable backend architectures, event-driven workflows &amp; intelligent AI systems
+    </text>
+  </g>
+</svg>
