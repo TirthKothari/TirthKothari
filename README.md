@@ -1,12 +1,18 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=195&color=0:0D1117,45:162032,100:38BDF8&text=TIRTH%20KOTHARI&fontColor=F8FAFC&fontSize=50&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%2FML&descAlignY=60&descSize=14"
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,45:162032,100:38BDF8&text=TIRTH%20KOTHARI&fontColor=F8FAFC&fontSize=50&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Python%20%26%20Backend%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI%2FML&descAlignY=60&descSize=14"
     width="100%"
-    alt="Tirth Kothari — GitHub profile banner"
+    alt="Tirth Kothari — GitHub Profile Banner"
   />
 
-  <p>
+  <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px" alt="Wave"> I'm Tirth Kothari</h1>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=TirthKothari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
+
+  <p align="center">
     <a href="https://github.com/TirthKothari">
       <img src="https://img.shields.io/badge/GitHub-TirthKothari-101820?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
     </a>
@@ -14,17 +20,27 @@
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
     </a>
     <a href="mailto:tirth.n.kothari@gmail.com">
-      <img src="https://img.shields.io/badge/Email-tirth.n.kothari%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-tirth.n.kothari%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
-  <h3>Software Developer · Python & Backend · Distributed Systems · Applied AI</h3>
+  <h3>Software Developer · Python & Backend Specialist · Distributed Systems · AI/ML</h3>
   <p>
-    I build scalable backend services, distributed systems, and AI-integrated applications.<br/>
-    Specializing in Python & Django ecosystems, high-concurrency event-driven workflows, and cloud infrastructure.
+    I build scalable backend systems, high-concurrency event-driven workflows, and AI-integrated applications.<br/>
+    Specializing in Python & Django ecosystems, asynchronous task queues, and cloud virtualization infrastructure.
   </p>
 
 </div>
+
+---
+
+## ⚡ Quick Bio
+
+- 🌱 **Currently Exploring:** Backend Systems for AI Models & Large Language Models (LLMs), High-throughput Model Serving, and RAG Pipelines.
+- 💻 **Primary Stack:** **Python** (Core Language) & **Django / Django REST Framework** (Primary Framework).
+- 💬 **Ask Me About:** Python, Django, FastAPI, Celery, Redis Lua concurrency, PostGIS spatial queries, Docker, and Kubernetes.
+- 📫 **Reach Me At:** [tirth.n.kothari@gmail.com](mailto:tirth.n.kothari@gmail.com)
+- 📍 **Location:** Mumbai, India
 
 ---
 
@@ -48,46 +64,45 @@
     </td>
     <td width="50%">
       <h3>🤖 AI Backends & Applied ML</h3>
-      Architecting backend systems for AI models & LLMs, document extraction pipelines with <b>PaddleOCR</b>, natural-language-to-SQL query agents, and computer vision.
+      Architecting backend serving pipelines for AI models & LLMs, document extraction pipelines with <b>PaddleOCR</b>, natural-language-to-SQL query agents, and computer vision.
     </td>
   </tr>
 </table>
 
-> 🧠 **Currently exploring:** Backend architectures for AI models & Large Language Models (LLMs) — high-throughput model serving, agentic orchestration, streaming inference backends, and vector search indexing.
-
 ---
 
-## 🚀 Selected projects
+## 🚀 Selected Projects
 
-| Project | What it does | Core technologies |
+| Project | What it does | Core Technologies |
 |---|---|---|
 | [ErgoSpace](https://github.com/TirthKothari/ErgoSpace) | A co-working and café workspace discovery and reservation platform with PostGIS spatial radius search, dynamic hourly/daily/monthly pricing state machine, provider management, and Razorpay signature-verified payments. | Python, Django, DRF, PostgreSQL, PostGIS, GeoDjango, Razorpay, Redis |
-| [KACU](https://github.com/TirthKothari/KACU) | A full-stack multi-tenant business loan application platform with fine-grained 4-tier RBAC, multi-step onboarding pipelines, encrypted Backblaze B2 document storage, and automated GitHub Actions CI/CD. | React.js, Python, Django, DRF, PostgreSQL, Backblaze B2, GitHub Actions |
-| [Precise Extract](https://github.com/TirthKothari/Precise-Extract) | An AI-powered document extraction platform that extracts structured tabular data from complex PDFs and images using PaddleOCR, paired with a Gemini/ChatGPT natural language-to-SQL query agent and Excel exporter. | FastAPI, Flask, PaddleOCR, Gemini API, ChatGPT API, MySQL, Pandas |
-| [Cloud Emulator Infrastructure](https://github.com/TirthKothari) | On-demand containerized Android emulator clusters on GCP orchestrated with Docker & Kubernetes using KVM hardware acceleration, atomic Redis Lua concurrency, and an OpenResty/Lua real-time streaming gateway. | Docker, Kubernetes, GCP, KVM, Celery, Redis Lua, OpenResty, Appium |
-| [InstaBot](https://github.com/TirthKothari/InstaBot) | A Python-based automation bot featuring automated workflow scripts, session handling, interaction pipelines, and anti-rate-limit throttling mechanisms. | Python, Automation Scripting, Requests, Selenium |
-| [AWS re/Start Automation](https://github.com/TirthKothari) | Cloud automation toolset developed to orchestrate, provision, and automate recurring infrastructure tasks and routine maintenance for AWS re/Start lab environments. | Python, AWS CLI, Boto3, Bash Scripting |
+| [PreciseExtract](https://github.com/TirthKothari/PreciseExtract) | An AI-powered document extraction platform that extracts structured tabular data from complex PDFs and images using PaddleOCR, paired with a Gemini/ChatGPT natural language-to-SQL query agent and Excel exporter. | FastAPI, Flask, PaddleOCR, Gemini API, ChatGPT API, MySQL, Pandas |
+| [KACU](https://github.com/TirthKothari) *(Production)* | A full-stack multi-tenant business loan application platform with fine-grained 4-tier RBAC, multi-step onboarding pipelines, encrypted Backblaze B2 document storage, and automated GitHub Actions CI/CD. | React.js, Python, Django, DRF, PostgreSQL, Backblaze B2, GitHub Actions |
+| [DocuRAG](https://github.com/TirthKothari/DocuRAG) | Retrieval-Augmented Generation (RAG) system for intelligent semantic document search, embedding generation, and contextual Q&A using LLMs and vector search. | Python, LangChain, FAISS, LLM APIs, Vector Search |
+| [SignStream](https://github.com/TirthKothari/SignStream-Real-Time-Sign-Language-Detector) | Real-time computer vision sign language detection and translation application built with OpenCV and MediaPipe for edge devices (CODEVERSE '23 Hackathon). | Python, OpenCV, MediaPipe, Machine Learning |
+| [Amazon Hiring Bot](https://github.com/TirthKothari/amazon_hiring_bot) | Automation script built for monitoring hiring updates, processing alert notifications, and streamlining routine candidate workflow checks. | Python, Web Automation, Requests, Beautiful Soup |
+| [InstaBot](https://github.com/TirthKothari) | Python-based social workflow automation tool featuring session persistence, automated interactions, and anti-rate-limit throttling mechanisms. | Python, Automation Scripting, Requests, Selenium |
 
 ---
 
-## 🛠️ Technology stack
+## 🛠️ Technology Stack
 
-### Languages
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,cpp,c" alt="Python, JavaScript, C++, C" />
 </p>
 
-### Frameworks & development
+### Frameworks & Development
 <p>
   <img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,nodejs" alt="Django, FastAPI, Flask, React, Node.js" />
 </p>
 
-### Databases & infrastructure
+### Databases, Cloud & Infrastructure
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,gcp,aws,linux,nginx,git,github" alt="PostgreSQL, MySQL, MongoDB, Redis, Docker, Kubernetes, GCP, AWS, Linux, Nginx, Git, GitHub" />
 </p>
 
-### Data, AI & Automation
+### AI, Machine Learning & Automation
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=google&logoColor=white" alt="Gemini API" />
@@ -110,7 +125,7 @@
 #### **Backend Engineer Intern** | **BugOwl AI** *(Startup)*
 *Jun 2025 – Dec 2025 • Mumbai, India*
 
-- **Backend Architecture**: Led a team of 3 engineers in building the backend architecture for an AI-powered QA automation platform using **Python** and **Django**, enabling natural-language-driven browser and mobile test execution.
+- **Platform Architecture**: Led a team of 3 engineers in building the backend architecture for an AI-powered QA automation platform using **Python** and **Django**, enabling natural-language-driven browser and mobile test execution.
 - **Asynchronous Concurrency**: Engineered task pipelines with **Celery** and **Redis**, implementing atomic **Redis Lua scripts** to resolve concurrency bottlenecks and eliminate race conditions during virtual device provisioning.
 - **Cloud Infrastructure & KVM**: Built and deployed scalable Android emulator infrastructure on **GCP** using **Docker** and **Kubernetes**, leveraging **KVM** for hardware-accelerated device virtualization.
 - **Real-Time Video Gateway**: Implemented real-time communication via **Django Channels** and **WebSockets**, and built an **Nginx/OpenResty** reverse proxy using **Lua** for authenticated routing of live emulator video feeds.
@@ -138,34 +153,43 @@
 
 ---
 
-## 📊 GitHub activity
+## 📊 GitHub Metrics
+
+<details open>
+  <summary><strong>📊 Click to Toggle GitHub Stats & Activity</strong></summary>
+  <br/>
 
 <div align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=TirthKothari&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E6EDF3&rank_icon=github"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=TirthKothari&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub statistics for Tirth Kothari"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirthKothari&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E6EDF3"
-    height="165"
-    alt="Most used programming languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=TirthKothari&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
   />
-
-  <br/>
-
+  <br/><br/>
   <img
-    src="https://streak-stats.demolab.com?user=TirthKothari&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"
-    width="70%"
-    alt="GitHub contribution streak"
+    src="https://streak-stats.demolab.com?user=TirthKothari&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
   />
-
 </div>
 
-> *Note: GitHub statistics and streak cards are generated by third-party services and may occasionally experience slight delays.*
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TirthKothari&theme=flat&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
 
----
+### 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TirthKothari&theme=vue&hide_border=true" alt="Contribution Graph" />
+</div>
+
+</details>
+
+<br/>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Divider" />
 
 <div align="center">
 
